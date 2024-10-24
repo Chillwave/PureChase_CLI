@@ -3,7 +3,9 @@ Python tools to control the Bluetooth-based mouse cat toy. Replaces the "Instach
 
 ## Overview
 
-Also known as the Instachew Purechase & the MySudui App Mouse Racer. The original applications were hard to use and did not have the ability to autonomously control the toy.
+Also known as the Instachew Purechase Smart Mouse & the MySudui App Mouse Racer. The original applications were hard to use and did not have the ability to autonomously control the toy.
+
+![device photo](https://raw.githubusercontent.com/Chillwave/PureChase_CLI/refs/heads/main/cat_toy.webp)
 
 This project contains two scripts for controlling a Bluetooth cat toy:
 1. `wasd_control.py` - Manual control using keyboard
